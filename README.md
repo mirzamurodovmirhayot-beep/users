@@ -1,2 +1,2 @@
 # users
-computer programm windows 11
+computer program windows 11
